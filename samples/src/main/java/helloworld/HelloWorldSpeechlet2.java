@@ -40,8 +40,7 @@ public class HelloWorldSpeechlet implements Speechlet {
     }
     
     public void testMethod() {
-        // Dan was here
-        // Commit #2
+        // TESTING
     }
 
     @Override
