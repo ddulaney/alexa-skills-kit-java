@@ -38,6 +38,10 @@ public class HelloWorldSpeechlet implements Speechlet {
                 session.getSessionId());
         // any initialization logic goes here
     }
+    
+    public void testMethod() {
+        // Dan was here
+    }
 
     @Override
     public SpeechletResponse onLaunch(final LaunchRequest request, final Session session)
